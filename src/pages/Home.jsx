@@ -3,7 +3,7 @@ import CardCarousel from "../components/Carousel/CardCarousel";
 import CommingSoonCard from "../components/Carousel/CommingSoonCard";
 import Footer from "../components/Footer/Footer";
 import LoadingSpinner from "../components/Loading/LoadingSpinner";
-import Navbar from "../components/Navbar/Navbar";
+import Nav from "../components/Navbar/Nav";
 import useTVmaze from "../hooks/useTVmaze"; // Make sure the path is correct
 
 const Home = () => {
@@ -20,7 +20,7 @@ const Home = () => {
   return (
     <div>
       <div className="  top-0 ">
-        <Navbar />
+        <Nav />
       </div>
       <BannerCarousel movies={movies} />
       <div className="mt-12">
@@ -56,7 +56,7 @@ const Home = () => {
       </div>
       <div className="">
         <h1 className="text-white font-bold  ml-6 text-2xl p-4">
-          Trending This Week
+          Comming soon
         </h1>
         <CommingSoonCard movies={movies} />
       </div>

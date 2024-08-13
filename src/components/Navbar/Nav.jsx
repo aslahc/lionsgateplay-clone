@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-function Navbar() {
+function Nav() {
   // State to toggle the mobile menu visibility
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
@@ -118,4 +118,4 @@ function Navbar() {
   );
 }
 
-export default Navbar;
+export default Nav;
