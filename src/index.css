@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg {
+  background-image: url('https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPWBLvORiuRkQTs17myYcxXc2nYlub_SDgxuEttN8_8IaaOQie');
+  background-size: cover;
+  background-position: center;
+}/* CSS file or within <style> tag */
+
+
+
+
+.scroll-smooth {
+  overflow: hidden;
+}
