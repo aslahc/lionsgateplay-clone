@@ -2,10 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
-.bg {
-  background-image: url('https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPWBLvORiuRkQTs17myYcxXc2nYlub_SDgxuEttN8_8IaaOQie');
+.bg {  background-image: url('https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTLMtQnwTGE5KVIVjgtCi_0JgseT2J95NGbX1lmuVRxYVhJNNwa');
   background-size: cover;
   background-position: center;
+
 }/* CSS file or within <style> tag */
 
 

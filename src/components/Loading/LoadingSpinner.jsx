@@ -1,4 +1,5 @@
 function LoadingSpinner() {
+  // loading spinner
   return (
     <div className="flex items-center justify-center h-screen">
       <div role="status">
