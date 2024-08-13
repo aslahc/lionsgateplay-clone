@@ -1,5 +1,5 @@
 # React + Vite
-
+<img src="https://github.com/aslahc/lionsgateplay-clone/blob/main/public/Screenshot%202024-08-13%20105549.png?raw=true" >
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
